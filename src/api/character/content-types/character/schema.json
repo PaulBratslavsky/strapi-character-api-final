@@ -38,6 +38,12 @@
       ],
       "type": "media",
       "multiple": false
+    },
+    "stories": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::story.story",
+      "mappedBy": "character"
     }
   }
 }
