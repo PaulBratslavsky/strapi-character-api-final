@@ -40,11 +40,9 @@ $RECYCLE.BIN/
 *.csv
 *.dat
 *.dmg
-*.gz
 *.iso
 *.jar
 *.rar
-*.tar
 *.zip
 *.com
 *.class
@@ -53,7 +51,6 @@ $RECYCLE.BIN/
 *.o
 *.seed
 *.so
-*.swo
 *.swp
 *.swn
 *.swm
