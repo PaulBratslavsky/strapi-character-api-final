@@ -27,7 +27,13 @@ async function generateStory(strapi, ctx) {
 
   Writing Prompt:
 
-  Consider what are the underlying reasons that fuel their relentless crusade for justice. Is it a personal vendetta? Or maybe a tragic past? Or perhaps an inherent belief in the potential goodness of mankind despite the bleak surroundings? Delve into their psyche and motivations in and craft a compelling backstory that seamlessly weaves into the narrative. 
+  1. Consider what are the underlying reasons and motivation that fuel their relentless crusade for justice. 
+  2. Is it a personal vendetta? Or maybe a tragic past? Or perhaps an inherent belief in the potential goodness of mankind despite the bleak surroundings? 
+  3. Delve into their psyche and motivations in and craft a compelling backstory that seamlessly weaves into the narrative. 
+  4. The story should be written in the third person and should be written in the past tense.
+  5. Randomize adventure story elements such as the setting, the plot, the characters, and the conflict.
+  6. Based on the character's backstory, write a story that is at least 1000 words long.
+  
   `;
 
   try {
